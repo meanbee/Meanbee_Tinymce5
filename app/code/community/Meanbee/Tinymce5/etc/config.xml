@@ -27,18 +27,6 @@
 			</tinymce5>
 		</helpers>
 	</global>
-	
-	<admin>    
-        <routers>
-            <tinymce5>
-                <use>admin</use>
-                <args>
-                        <module>Meanbee_Tinymce5</module>
-                        <frontName>tinymce5</frontName>
-                </args>
-            </tinymce5>
-        </routers>
-    </admin>
 		
     <adminhtml>
         <layout>
