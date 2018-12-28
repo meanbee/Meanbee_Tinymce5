@@ -1,0 +1,4 @@
+app/code/community/Meanbee/Tinymce5 app/code/community/Meanbee/Tinymce5
+app/design/adminhtml/default/default/layout/meanbee/tinymce5.xml    app/design/adminhtml/default/default/layout/meanbee/tinymce5.xml
+app/etc/modules/Meanbee_Tinymce5.xml    app/etc/modules/Meanbee_Tinymce5.xml
+js/meanbee/tinymce5/setup.js    js/meanbee/tinymce5/setup.js
