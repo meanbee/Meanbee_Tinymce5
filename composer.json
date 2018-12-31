@@ -1,0 +1,14 @@
+{
+  "name": "meanbee/m1-tinymce5",
+  "type": "magento-module",
+  "description": "Add html5 support to tinymce editor for Magento 1",
+  "homepage": "https://github.com/meanbee/Meanbee_Tinymce5",
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  },
+  "authors":[
+    {
+      "name":"Meanbee"
+    }
+  ]
+}
